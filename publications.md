@@ -19,11 +19,16 @@ p {
 
 ## 2023
 
-1. Tingjun Xu<sup>†</sup>, Wenxing Gao<sup>†</sup>, Lixin Zhu<sup>\*</sup>, Wanning Chen, Chaoqun Niu, Wenjing Yin, Liangxiao Ma, Xinyue Zhu, Yunchao Ling, Sheng Gao, Lei Liu, Na Jiao, Weiming Chen, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and **Dingfeng Wu**<sup>\*</sup>. NAFLDkb: A Knowledge Base and Platform for Drug Development against Nonalcoholic Fatty Liver Disease. **J. Chem. Inf. Model**. **2023**; https://pubs.acs.org/doi/10.1021/acs.jcim.3c00395
+1. Wenxing Gao<sup>#</sup>, Xiang Gaosup>#</sup>, Lixin Zhu<sup>\*</sup>, Sheng Gao, Ruicong Sun, Zhongsheng Feng, Dingfeng Wu, Zhanju Liu<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Multimodal metagenomic analysis reveals microbial single nucleotide variants as superior biomarkers for early detection of colorectal cancer. **Gut Microbes**, *2023*; https://doi.org/10.1080/19490976.2023.2245562. 
 
-1. Wenjun Gu<sup>†</sup>, LuChengChen Shu, WanNing Chen, Jinhua Wang, **Dingfeng Wu**<sup>\*</sup>, ZiSheng Ai<sup>\*</sup>, and Jiyu Li<sup>\*</sup>. Evaluation of Chinese Healthcare Organizations Innovative Performance in the Digital Health Era. **Front. Public Health**. **2023**; https://www.frontiersin.org/articles/10.3389/fpubh.2023.1141757
+1. Tingjun Xu<sup>†</sup>, Wenxing Gao<sup>†</sup>, Lixin Zhu<sup>\*</sup>, Wanning Chen, Chaoqun Niu, Wenjing Yin, Liangxiao Ma, Xinyue Zhu, Yunchao Ling, Sheng Gao, Lei Liu, **Na Jiao**, Weiming Chen, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and Dingfeng Wu<sup>\*</sup>. NAFLDkb: A Knowledge Base and Platform for Drug Development against Nonalcoholic Fatty Liver Disease. **J. Chem. Inf. Model**. **2023**; https://pubs.acs.org/doi/10.1021/acs.jcim.3c00395
 
-1. Lei Liu<sup>†</sup>, Ruixin Zhu,and **Dingfeng Wu**<sup>\*</sup>. Misuse of reporter score in microbial enrichment analysis. **iMeta**. **2023**; e95. https://doi.org/10.1002/imt2.95
+1. Xiang Gao<sup>#</sup>, Ruicong Sun<sup>#</sup>, **Na Jiao**<sup>#</sup>, Xiao Liang, Gengfeng Li, Han Gao, Xiaohan Wu, Muqing Yang, Chunqiu Chen, Liang Chen, Wei Wu, Zhong Li, Yingzi Cong, Ruixin Zhu<sup>\*</sup>, Tiannan Guo<sup>\*</sup>, Zhanju Liu<sup>\*</sup>, Integrative multi-omics deciphers the spatial characteristics of host-gut microbiota interactions in Crohn’s disease. **Cell Reports Medicine**. *2023*; 4, 101050. 
+
+1. Fengtao Cai<sup>#</sup>, Chenfen Zhou<sup>#</sup>, **Na Jiao**<sup>#</sup>, Xinling Liang, Zhiming Ye, Wei Chen, Qiongqiong Yang, Hui Peng, Ying Tang, Chaoqun Niu, Guoping Zhao, Zefeng Wang<sup>\*</sup>, Guoqing Zhang<sup>\*</sup>, Xueqing Yu<sup>\*</sup>. Systematic microbiome dysbiosis are associated with IgA nephropathy. **Microbiology Spectrum**. *2023*, e05202-22. 
+
+1. Shaobo Zhao<sup>#</sup>, Kun Zhu<sup>#</sup>, Xiaoyi Li<sup>#</sup>, Xiaohui Zhong, Yanyan Zhao, Zhicong Liu, Yi Xiao, Dengming Lai, **Na Jiao**<sup>\*</sup>, Qiang Shu<sup>\*</sup>. Co-expression and interaction network analysis reveals dysregulated neutrophil and T-cell activation as the core mechanism associated with septic shock[J]. **Frontiers in Genetics**, *2023*, 14.
+   
 
 
 ## 2022
