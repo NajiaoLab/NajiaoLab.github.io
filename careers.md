@@ -19,7 +19,7 @@ p {
 
 
 
-Long-term recruitment of postdocs and research assistants, please send your resume (education background, work experience, research experience, publications, etc.) to [dfw_bioinfo@126.com](mailto:dfw_bioinfo@126.com).
+Long-term recruitment of postdocs and research assistants, please send your resume (education background, work experience, research experience, publications, etc.) to [jiaonall@163.com](mailto:jiaonall@163.com).
 
 Requirements:
 
