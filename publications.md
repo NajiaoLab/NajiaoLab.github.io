@@ -21,7 +21,9 @@ p {
 
 1. Wenxing Gao<sup>#</sup>, Xiang Gaosup>#</sup>, Lixin Zhu<sup>\*</sup>, Sheng Gao, Ruicong Sun, Zhongsheng Feng, Dingfeng Wu, Zhanju Liu<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Multimodal metagenomic analysis reveals microbial single nucleotide variants as superior biomarkers for early detection of colorectal cancer. **Gut Microbes**, *2023*; https://doi.org/10.1080/19490976.2023.2245562. 
 
-1. Tingjun Xu<sup>†</sup>, Wenxing Gao<sup>†</sup>, Lixin Zhu<sup>\*</sup>, Wanning Chen, Chaoqun Niu, Wenjing Yin, Liangxiao Ma, Xinyue Zhu, Yunchao Ling, Sheng Gao, Lei Liu, **Na Jiao**, Weiming Chen, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and Dingfeng Wu<sup>\*</sup>. NAFLDkb: A Knowledge Base and Platform for Drug Development against Nonalcoholic Fatty Liver Disease. **J. Chem. Inf. Model**. **2023**; https://pubs.acs.org/doi/10.1021/acs.jcim.3c00395
+1. Sheng Gao<sup>#</sup>, Xiang Gao<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Dingfeng Wu, Zhongsheng Feng, **Na Jiao**, Ruicong Sun, Wenxing Gao, Qing He<sup>\*</sup>, Zhanju Liu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. Microbial genes outperform species and SNVs as diagnostic markers for Crohn's disease on multicohort fecal metagenomes empowered by artificial intelligence. **Gut microbes**, *2023*, 15(1): 2221428.
+
+1. Tingjun Xu<sup>#</sup>, Wenxing Gao<sup>#</sup>, Lixin Zhu<sup>\*</sup>, Wanning Chen, Chaoqun Niu, Wenjing Yin, Liangxiao Ma, Xinyue Zhu, Yunchao Ling, Sheng Gao, Lei Liu, **Na Jiao**, Weiming Chen, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and Dingfeng Wu<sup>\*</sup>. NAFLDkb: A Knowledge Base and Platform for Drug Development against Nonalcoholic Fatty Liver Disease. **J. Chem. Inf. Model**. **2023**; https://pubs.acs.org/doi/10.1021/acs.jcim.3c00395
 
 1. Xiang Gao<sup>#</sup>, Ruicong Sun<sup>#</sup>, **Na Jiao**<sup>#</sup>, Xiao Liang, Gengfeng Li, Han Gao, Xiaohan Wu, Muqing Yang, Chunqiu Chen, Liang Chen, Wei Wu, Zhong Li, Yingzi Cong, Ruixin Zhu<sup>\*</sup>, Tiannan Guo<sup>\*</sup>, Zhanju Liu<sup>\*</sup>, Integrative multi-omics deciphers the spatial characteristics of host-gut microbiota interactions in Crohn’s disease. **Cell Reports Medicine**. *2023*; 4, 101050. 
 
@@ -33,10 +35,25 @@ p {
 
 ## 2022
 
-1. **Dingfeng Wu**<sup>†</sup>, Lei Liu<sup>†</sup>, Na Jiao<sup>†</sup>, Yida Zhang, Li Yang, Chuan Tian, Ping Lan, Lixin Zhu<sup>\*</sup>, Rohit Loomba<sup>\*</sup>, and Ruixin Zhu<sup>\*</sup>. Targeting Keystone Species Helps Restore the Dysbiosis of Butyrate-Producing Bacteria in Nonalcoholic Fatty Liver Disease. **iMeta**, **2022**; e61. https://doi.org/10.1002/imt2.61
+1. **Dingfeng Wu**<sup>#</sup>, Lei Liu<sup>#</sup>, **Na Jiao**<sup>#</sup>, Yida Zhang, Li Yang, Chuan Tian, Ping Lan, Lixin Zhu<sup>\*</sup>, Rohit Loomba<sup>\*</sup>, and Ruixin Zhu<sup>\*</sup>. Targeting Keystone Species Helps Restore the Dysbiosis of Butyrate-Producing Bacteria in Nonalcoholic Fatty Liver Disease. **iMeta**, *2022*; e61. https://doi.org/10.1002/imt2.61
 
-1.  Jing Zhong<sup>†</sup>, **Dingfeng Wu**<sup>†</sup>, Yuanyuan Zeng<sup>†</sup>, Gaosong Wu<sup>†</sup>, Ningning Zheng, Wenjin Huang, Yan Li, Xin Tao, Weize Zhu, Lili Sheng, Xiaoxu Shen, Weidong Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, and Houkai Li<sup>\*</sup>. The Microbial and Metabolic Signatures of Patients with Stable Coronary Artery Disease. **Microbiology spectrum**, **2022**; 10(6):e0246722. doi:10.1128/spectrum.02467-22
+1. Ningning Liu<sup>#</sup>, **Na Jiao**<sup>#</sup>, Jing-Cong Tan<sup>#</sup>, Ziliang Wang<sup>#</sup>, Dingfeng Wu, An-Jun Wang, Jie Chen, Liwen Tao, Chenfen Zhou, Wenjie Fang, Io Hong Cheong, Weihua Pan, Wanqing Liao, Zisis Kozlakidis, Christopher Heeschen, Geromy G. Moore, Lixin Zhu<sup>\*</sup>, Xingdong Chen<sup>\*</sup>, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, Hui Wang<sup>\*</sup>. Multi-kingdom microbiota analyses identify bacterial-fungal interactions and biomarkers of colorectal cancer across cohorts. **Nature Microbiology**, *2022*; 7(2):238-250.
+   
+1. Sheng Gao, Yichen Li, Dingfeng Wu, **Na Jiao**, Li Yang, Rui Zhao, Zhifeng Xu, Wanning Chen, Xutao Lin, Sijing Cheng, Lixin Zhu<sup>\*</sup>, Ping Lan<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>. IBD subtype-regulators IFNG and GBP5 identified by causal inference drive more intense innate immunity and inflammatory responses in CD than those in UC. **Frontiers in Pharmacology**, *2022*, p.1049. 
 
+
+
+## 2021
+
+1. Yuqi Wu<sup>#</sup>, **Na Jiao**<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Yida Zhang, Dingfeng Wu, An-Jun Wang, Sa Fang, Liwen Tao, Yichen Li, Sijing Cheng, Ping Lan, Chuan Tian<sup>\*</sup>, Ning-Ning Liu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. Identification of microbial markers across populations in early detection of colorectal cancer. **Nature Communications**, *2021*; 12(1):3063
+   
+1. **Na Jiao**<sup>#</sup>, Rohit Loomba<sup>#</sup><sup>\*</sup>, Zi-Huan Yang, Dingfeng Wu, Sa Fang, Richele Bettencourt, Ping Lan, Ruixin Zhu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. Alterations in bile acid metabolizing gut microbiota and specific bile acid genes as a precision medicine to subclassify NAFLD. **Physiological Genomics**, *2021*; 53(8):336-348. 
+
+1. Yichen Li<sup>#</sup>, Jie Li<sup>#</sup>, Jia Ke<sup>#</sup>, **Na Jiao**<sup>#</sup>, Lixin Zhu<sup>#</sup><sup>\*</sup>, Lihan Shen, Lei Chen, Zhiqiang Jiang, Sijing Cheng, Yibo Huang, Yifeng Zou, Ruixin Zhu<sup>\*</sup>, and Guangjun Yan<sup>\*</sup>. Adverse Outcomes Associated with Corticosteroid Use in Critical COVID-19: A Retrospective Multicenter Cohort Study. **Frontiers of Medicine**, *2021*; 8: 604263.
+
+1. Jingrong Weng<sup>#</sup>, Yichen Li<sup>#</sup>, Jie Li<sup>#</sup>, Lihan Shen<sup>#</sup>, Lixin Zhu<sup>#</sup><sup>\*</sup>, Yufan Liang, Xutao Lin, **Na Jiao**, Sijing Cheng, Yibo Huang, Yifeng Zou<sup>\*</sup>, Guangjun Yan<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, Ping Lan<sup>\*</sup>. Gastrointestinal sequelae in patients after discharge for COVID-19. **The Lancet Gastroenterology & Hepatology**. *2021*, 6(5): 344-346.
+
+1. Lu Zhao<sup>#</sup>, Wanning Chen<sup>#</sup>, Yongsheng Ge, Xin Lv, Ying Wang, Han Yu, Yi Liu, Dingfeng Wu, Na Jiao, Yuanqi Wu, Daqing Lv, Guoqing Zhang, Fuzhong Xue, Xiaohong Xu, Zhongtao Gai<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, Lei Zhang<sup>\*</sup>, Guoping Zhao. Putative familial transmissible bacteria of various body niches link with home environment and children’s immune health. **Microbiology Spectrum**. *2021*, 9(3): e00872-21.
 
 ## 2020
 
