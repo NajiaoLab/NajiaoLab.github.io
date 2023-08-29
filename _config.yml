@@ -54,8 +54,8 @@ social-network-links:
   email: "jiaonall@163.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Wu Dingfeng
-  github: dfwlab
-  twitter: dfw_biolab
+  github: jiaonall
+  twitter: Jiaona3
 #  patreon: yourname
 #  youtube: yourname
 #  medium: yourname
@@ -73,7 +73,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-  ORCID: 0000-0002-9287-122X
+  ORCID: 0000-0003-3976-6313
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
@@ -92,7 +92,7 @@ share-links-active:
   email: true
   ORCID: true
   github: true
-  facebook: true
+  facebook: false
   twitter: true
   telephone: true
   
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jiaonall.github.io"
+url-pretty: "jiaonalab.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
