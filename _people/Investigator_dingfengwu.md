@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Dingfeng Wu
+title: Na Jiao
 position: Principle Investigator
 image: /people/dingfengwu.png
 degree: Ph.D.
-email: dfw_bioinfo@126.com
-webside: https://dfwlab.github.io/
-github: https://github.com/dfwlab
+email: jiaonall@163.com
+webside: https://jiaonall.github.io/
+github: https://github.com/jiaonall
 google_scholar: OqbAECkAAAAJ
 office: Zhejiang University, xxx Road, HangZhou, Zhejiang, China
-introduce: <b>Dingfeng Wu</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now he is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. His research focuses on <b>Metagenomics</b>, <b>Big data</b>, and <b>Artificial intelligence</b>.
+introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now he is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. His research focuses on <b>Metagenomics</b>, <b>Biomarkers</b>, and <b>Artificial intelligence</b>.
 ---
 <style>
 p {
@@ -23,8 +23,8 @@ p {
 <div class='row'>
   <div class="col-lg-8">
     <p><b>Education:</b> Ph.D.</p>
-    <p><b>Research areas:</b> Bioinformatics</p>
-    <p><b>Research focus:</b> Metagenomics, Big data and Artificial intelligence</p>
+    <p><b>Research areas:</b> Bioinformatics & Metagenomics </p>
+    <p><b>Research focus:</b> Metagenomics, Biomarkers, multi-omics integration and Artificial intelligence</p>
   </div>
   <div class="col-lg-4">
     <div class="text-right">
@@ -35,25 +35,29 @@ p {
 
 **Current position：**Distinguished research fellow (Professor), Children's Hospital of Zhejiang University School of Medicine
 
-**More about me：**[吴顶峰-浙江大学个人主页](https://person.zju.edu.cn/6521170)、[吴顶峰-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1142.htm)
+**More about me：**[焦娜-浙江大学个人主页](https://person.zju.edu.cn/jiaona)、[吴顶峰-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1142.htm)
 
 **Work Experience**
 
 * Sep. 2021-Present: Distinguished research fellow (Professor), National Clinical Research Center for Child Health, Children's Hospital of Zhejiang University School of Medicine
 
-* Sep. 2018-Aug. 2021: Postdoctoral fellow, Biomedical Engineering, Tongji University, Shanghai, China
+* Sep. 2019-Aug. 2021: Postdoctoral fellow, Bioinformatics, The Sixth Affiliated Hospital of Sun Yat-sen University, Guangzhou, China
 
 **Education**
-* **Ph.D.**: Jun. 2018, Bioinformatics, School of Life Sciences and Technology, Tongji University, Shanghai, China
+* **Ph.D.**: Jun. 2019, Bioinformatics, School of Life Sciences and Technology, Tongji University, Shanghai, China
 
 
-* **B.S.**: Jun. 2013, Bioinformatics, School of Life Sciences and Technology, Tongji University, Shanghai, China
+* **B.S.**: Jun. 2014, Food Science and Engineering, College of Biological and Agricultural Engineering, Jilin University, Jilin, China
 
 **Research Project**
 
-1. National Natural Science Foundation of China, Young Scientists Fund,32200529, Research on modeling method of disease gut microbial ecosystem based on causal theory, 2023-01 to 2025-12, RMB 300000, in research，PI
+1. National Natural Science Foundation of China, Young Scientists Fund, 82000536, Mechanism for the gut microbiota-mediated bile acid metabolism promoting NAFLD pathogenesis via gut-liver axis, 2021-01 to 2023-12, 240000, in research，PI
 
-2. China Postdoctoral Science Foundation, 2019M651568, Research on NAFLD key bacteria identification and personalized intervention based on causal inference, 2019-01 to 2021-12, RMB 80000, completed, PI
+2. Higher Education Institutions Fundamental Research Project, Young Teachers Training Programs, 20ykpy07, Altered gut microbiome and mechanism in FUT2 loss-of-function mutants in inflammatory bowel disease, 2020-01to 2021-01, 120000, conclusion，PI
+
+3. China Postdoctoral Science Foundation, General Program, 2019M663252, Role of the choline metabolizing microbiota in the pathogenesis of non-alcoholic fatty liver disease, 2020-01to 2021-08，80000, conclusion，PI
+
+4. China Postdoctoral Science Foundation, Postdoctoral Innovative Talent Support Program, BX20190393, Identification of bile acid metabolizing bacteria and individualized intervention in the pathogenesis of nonalcoholic fatty liver disease, 2019-09 to 2021-08, 600000, conclusion，PI
 
 **Publications**
 
