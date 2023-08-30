@@ -2,14 +2,14 @@
 layout: page
 title: Na Jiao
 position: Principle Investigator
-image: /people/dingfengwu.png
+image: /people/NaJiao.png
 degree: Ph.D.
 email: jiaonall@163.com
 webside: https://jiaonall.github.io/
 github: https://github.com/jiaonall
 google_scholar: OqbAECkAAAAJ
 office: Zhejiang University, xxx Road, HangZhou, Zhejiang, China
-introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now he is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. His research focuses on <b>Metagenomics</b>, <b>Biomarkers</b>, and <b>Artificial intelligence</b>.
+introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now she is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. Her research focuses on <b>Host-Microbiome Crosstalk</b>, <b>Heterogeneous (omics-)data integration</b>, <b>Biomarkers</b>, and <b>Artificial intelligence</b>.
 ---
 <style>
 p {
@@ -17,25 +17,25 @@ p {
 }
 </style>
 
-<h2>Dingfeng Wu <small>Professor</small></h2>
+<h2>Na Jiao <small>Professor</small></h2>
 <hr>
 
 <div class='row'>
   <div class="col-lg-8">
     <p><b>Education:</b> Ph.D.</p>
     <p><b>Research areas:</b> Bioinformatics & Metagenomics </p>
-    <p><b>Research focus:</b> Metagenomics, Biomarkers, multi-omics integration and Artificial intelligence</p>
+    <p><b>Research focus:</b> Host-Microbiome Crosstalk, Heterogeneous (omics-)data integration, Biomarkers and Artificial intelligence</p>
   </div>
   <div class="col-lg-4">
     <div class="text-right">
-        <img alt="dingfengwu" src="/assets/img/people/dingfengwu.png" width="200px" />
+        <img alt="najiao" src="/assets/img/people/NaJiao.png" width="200px" />
     </div>
   </div>
 </div>
 
 **Current position：**Distinguished research fellow (Professor), Children's Hospital of Zhejiang University School of Medicine
 
-**More about me：**[焦娜-浙江大学个人主页](https://person.zju.edu.cn/jiaona)、[吴顶峰-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1142.htm)
+**More about me：**[焦娜-浙江大学个人主页](https://person.zju.edu.cn/jiaona)、[焦娜-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1143.htm)
 
 **Work Experience**
 
@@ -105,19 +105,18 @@ p {
 
 **Academic Conference**
 
-1. **Dingfeng Wu**. Identification of the keystone species in non-alcoholic fatty liver disease by causal inference and dynamic intervention modeling. **Chinese Society for Microbiology Annual Conference**, **2020**. Oral presentation. Chengdu, China.
+1. **Na Jiao**, Fusobacterium nucleatum, a reproducible microbial marker for CRC prescreening, Experimental Biology (EB 2021), Oral presentation. Online.
 
-1. **Dingfeng Wu**. Unbalanced dietary patterns contribute to the pathogenesis of precocious puberty by affecting gut microbiota and host metabolites.**Chinese Society for Microbiology Annual Conference**, **2020**. Poster. Chengdu, China.
+1. **Na Jiao**, Gut microbiota contributes to promoting secondary bile acid biosynthesis in NAFLD pathogenesis, Digestive Diseases Week (DDW 2019), Oral presentation. San Diego, CA.
 
-1. **Dingfeng Wu**. Microbiome analysis cloud iMAC (integrated Microbiome Analysis Cloud). **Chinese Society for Microbiology Annual Conference**, **2020**. Poster. Chengdu, China.
+1. **Na Jiao**, Suppressed hepatic bile acid signaling despite elevated production of primary and secondary bile acids in NAFLD, Digestive Diseases Week (DDW 2017), Oral presentation. Chicago, IL.
 
-1. **Dingfeng Wu**. Analysis and application of keystone species in nonalcoholic fatty liver disease based on causal inference and dynamic intervention modeling. **Digestive Diseases Week**, **2020**. Poster. Chicago, IL.
+1. **Na Jiao**, Susan S. Baker, Colleen A. Nugent, Maria Tsompana, Liting Cai, Yong Wang, Michael J. Buck, Robert J. Genco, Robert D. Baker, Ruixin Zhu, Lixin Zhu, High-fat diet increases Clostridium clusters XIVa in obese rodents: a meta-analysis. Digestive Diseases Week (DDW 2017), Poster, Abstract #2674202, Chicago, IL.
 
-1. **Dingfeng Wu**. Rate-limiting enzymes in the THF-WL pathway of planktonic SAR324 perform keystone functions in ocean carbon cycling. **The 8th Symposium on Geological Microbiology**, **2019**, Chinese Society for Microbiology. Oral presentation. Qingdao, China
+1. Wei Xie, **Na Jiao**, Cenling Ma, Tommy. J. Phelps, Ruixin Zhu, Chuanlun Zhang, The Response of Archaeal Species to Seasonal Variables in a Subtropical Aerated Soil. Goldschmidt 2017, Poster, Abstract # gold2017: abs: 2017003171, Paris.
 
-1. **Dingfeng Wu**. Causal inference reveals that Clostridiales species are keystone species in NAFLD pathogenesis. **Digestive Diseases Week**, **2019**. Poster. San Diego, CA.
+1. **Na Jiao**. Amplicon analysis and its application in disease. Symposium on Flora Analysis 2019. Oral presentation. Guangzhou, China
 
-1. **Dingfeng Wu**. Amplicon analysis and its application in disease. **Symposium on Flora Analysis**, **2019**. Oral presentation. Guangzhou, China.
 
 **Community Involvement**
 
