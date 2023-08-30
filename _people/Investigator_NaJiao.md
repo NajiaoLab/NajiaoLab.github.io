@@ -7,7 +7,7 @@ degree: Ph.D.
 email: jiaonall@163.com
 webside: https://jiaonall.github.io/
 github: https://github.com/jiaonall
-google_scholar: OqbAECkAAAAJ
+google_scholar: https://scholar.google.com/citations?user=aX4qqkIAAAAJ&hl=zh-CN&oi=ao
 office: Zhejiang University, xxx Road, HangZhou, Zhejiang, China
 introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now she is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. Her research focuses on <b>Host-Microbiome Crosstalk</b>, <b>Heterogeneous (omics-)data integration</b>, <b>Biomarkers</b>, and <b>Artificial intelligence</b>.
 ---
