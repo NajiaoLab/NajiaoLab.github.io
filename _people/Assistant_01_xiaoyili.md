@@ -2,7 +2,7 @@
 layout: page
 title: Xiaoyi Li
 position: Assistant
-image: /people/suqicao.png
+image: /people/xiaoyili.png
 degree: M.D.
 email: lixiaoyi@zju.edu.cn
 webside: https://jiaonall.github.io/
