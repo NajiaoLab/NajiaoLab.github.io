@@ -17,6 +17,13 @@ p {
     </div>
 </div>
 
+## 2024
+
+1. Wenxing Gao<sup>#</sup>, Weili Lin<sup>#</sup>, Qiang Li<sup>#</sup>, Wanning Chen, Wenjing Yin, Xinyue Zhu, Sheng Gao, Lei Liu, Wenjie Li, Dingfeng Wu, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>. Identification and validation of microbial biomarkers from cross-cohort datasets using xMarkerFinder, **Nature Protocols**, *2024*, https://doi.org/10.1038/s41596-024-00999-9.
+1. **Na Jiao**<sup>\*</sup>, Lixin Zhu<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>. The search for authentic microbiome–disease relationships. **Nature Medicine**. *2024*, https://doi.org/10.1038/s41591-024-02920-z
+1. Xinyue Zhu<sup>#</sup>, Pingping Xu<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Wenxing Gao, Wenjing Yin, Ping Lan, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Multi-kingdom microbial signatures in excess body weight colorectal cancer based on global metagenomic analysis, **Communications Biology**, *2024*, 7:24, 10.1038/s42003-023-05714-0
+1. Xiaoyi Li<sup>#</sup>, Dingfeng Wu<sup>#</sup>, Qiuyu Li, Jinglan Gu, Wenxing Gao, Xinyue Zhu, Wenjing Yin, Ruixin Zhu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Host-microbiota interactions contributing to the heterogeneous tumor microenvironment in colorectal cancer, **Physiological Genomics**. *2024*,56 (2), 221-234
+
 ## 2023
 
 1. Wenxing Gao<sup>#</sup>, Xiang Gaosup>#</sup>, Lixin Zhu<sup>\*</sup>, Sheng Gao, Ruicong Sun, Zhongsheng Feng, Dingfeng Wu, Zhanju Liu<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Multimodal metagenomic analysis reveals microbial single nucleotide variants as superior biomarkers for early detection of colorectal cancer. **Gut Microbes**, *2023*; https://doi.org/10.1080/19490976.2023.2245562. 
