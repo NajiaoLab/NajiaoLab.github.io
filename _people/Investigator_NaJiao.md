@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ed02e141-be17-4a7a-987e-daf2a9ebe796)---
 layout: page
 title: Na Jiao
 position: Principle Investigator
@@ -9,7 +9,7 @@ webside: https://jiaonall.github.io/
 github: https://github.com/jiaonall
 google_scholar: https://scholar.google.com/citations?user=aX4qqkIAAAAJ&hl=zh-CN&oi=ao
 office: Fudan University, #2005 Songhu Road, Shanghai, China
-introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now she is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. Her research focuses on <b>Host-Microbiome Crosstalk</b>, <b>Heterogeneous (omics-)data integration</b>, <b>Biomarkers</b>, and <b>Artificial intelligence</b>.
+introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now she is a Professor at the School of Life Sciences, Department of Microbiology and Immunology, Fudan University. Her research focuses on <b>Microbiota-Host Phyneotype</b>, <b>Microbiota-Host Interaction</b>,and <b>Microbiome Exploration and Mining</b>.
 ---
 <style>
 p {
@@ -35,7 +35,7 @@ p {
 
 **Current position：**Distinguished research fellow (Professor), Children's Hospital of Zhejiang University School of Medicine
 
-**More about me：**[焦娜-复旦大学个人主页](https://person.zju.edu.cn/jiaona](https://life.fudan.edu.cn/0f/e9/c31282a659433/page.htm)、[焦娜-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1143.htm)
+**More about me：**[焦娜-复旦大学个人主页](https://life.fudan.edu.cn/0f/e9/c31282a659433/page.htm)、[焦娜-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1143.htm)
 
 **Work Experience**
 
