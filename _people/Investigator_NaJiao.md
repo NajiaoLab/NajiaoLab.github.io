@@ -8,7 +8,7 @@ email: jiaonall@163.com
 webside: https://jiaonall.github.io/
 github: https://github.com/jiaonall
 google_scholar: https://scholar.google.com/citations?user=aX4qqkIAAAAJ&hl=zh-CN&oi=ao
-office: Zhejiang University, xxx Road, HangZhou, Zhejiang, China
+office: Fudan University, #2005 Songhu Road, Shanghai, China
 introduce: <b>Na Jiao</b> is a young researcher with B.S. and Ph.D. in Bioinformatics from Tongji University. Now she is a Professor at the National Clinical Research Center for Child Health, the Children’s Hospital, Zhejiang University School of Medicine. Her research focuses on <b>Host-Microbiome Crosstalk</b>, <b>Heterogeneous (omics-)data integration</b>, <b>Biomarkers</b>, and <b>Artificial intelligence</b>.
 ---
 <style>
@@ -35,11 +35,13 @@ p {
 
 **Current position：**Distinguished research fellow (Professor), Children's Hospital of Zhejiang University School of Medicine
 
-**More about me：**[焦娜-浙江大学个人主页](https://person.zju.edu.cn/jiaona)、[焦娜-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1143.htm)
+**More about me：**[焦娜-复旦大学个人主页](https://person.zju.edu.cn/jiaona](https://life.fudan.edu.cn/0f/e9/c31282a659433/page.htm)、[焦娜-同济CADD课题组个人主页](https://cadd.tongji.edu.cn/info/1053/1143.htm)
 
 **Work Experience**
 
-* Sep. 2021-Present: Distinguished research fellow (Professor), National Clinical Research Center for Child Health, Children's Hospital of Zhejiang University School of Medicine
+* Jan. 2024- Present: Young research fellow (professor level), School of Life Sciences, Department of Microbiology and Immunology, Fudan University
+
+* Sep. 2021-Dec. 2023: Distinguished research fellow (Professor), National Clinical Research Center for Child Health, Children's Hospital of Zhejiang University School of Medicine
 
 * Sep. 2019-Aug. 2021: Postdoctoral fellow, Bioinformatics, The Sixth Affiliated Hospital of Sun Yat-sen University, Guangzhou, China
 
@@ -51,13 +53,15 @@ p {
 
 **Research Project**
 
-1. National Natural Science Foundation of China, Young Scientists Fund, 82000536, Mechanism for the gut microbiota-mediated bile acid metabolism promoting NAFLD pathogenesis via gut-liver axis, 2021-01 to 2023-12, 240000, in research，PI
+1. National Natural Science Foundation of China, General Fund, 32470098, Mechanism for the gut microbiota-mediated bile acid metabolism promoting NAFLD pathogenesis via gut-liver axis, 2025-01 to 2028-12, 500000, in research，PI
 
-2. Higher Education Institutions Fundamental Research Project, Young Teachers Training Programs, 20ykpy07, Altered gut microbiome and mechanism in FUT2 loss-of-function mutants in inflammatory bowel disease, 2020-01to 2021-01, 120000, conclusion，PI
+2. National Natural Science Foundation of China, Young Scientists Fund, 82000536, Mechanism for the gut microbiota-mediated bile acid metabolism promoting NAFLD pathogenesis via gut-liver axis, 2021-01 to 2023-12, 240000, in research，PI
 
-3. China Postdoctoral Science Foundation, General Program, 2019M663252, Role of the choline metabolizing microbiota in the pathogenesis of non-alcoholic fatty liver disease, 2020-01to 2021-08，80000, conclusion，PI
+3. Higher Education Institutions Fundamental Research Project, Young Teachers Training Programs, 20ykpy07, Altered gut microbiome and mechanism in FUT2 loss-of-function mutants in inflammatory bowel disease, 2020-01to 2021-01, 120000, conclusion，PI
 
-4. China Postdoctoral Science Foundation, Postdoctoral Innovative Talent Support Program, BX20190393, Identification of bile acid metabolizing bacteria and individualized intervention in the pathogenesis of nonalcoholic fatty liver disease, 2019-09 to 2021-08, 600000, conclusion，PI
+4. China Postdoctoral Science Foundation, General Program, 2019M663252, Role of the choline metabolizing microbiota in the pathogenesis of non-alcoholic fatty liver disease, 2020-01to 2021-08，80000, conclusion，PI
+
+5. China Postdoctoral Science Foundation, Postdoctoral Innovative Talent Support Program, BX20190393, Identification of bile acid metabolizing bacteria and individualized intervention in the pathogenesis of nonalcoholic fatty liver disease, 2019-09 to 2021-08, 600000, conclusion，PI
 
 **Publications**
 
