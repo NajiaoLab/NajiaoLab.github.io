@@ -17,11 +17,11 @@ p {
     </div>
 </div>
 
-### Metagenomics
+### Relationship Between the Microbiome and Host Phenotype
 
-* **[Keystone species](https://github.com/dfwlab/NAFLD_keystone)** Indentification of keystone species in microbiome  
+* **[xMarkerFinder](https://www.biosino.org/xmarkerfinder/)** Indentification of robust biomarkers in microbiome  
 
-* **[miMatch](https://github.com/dfwlab/miMatch)** A microbial metabolic background matching tool strengthens the causality between microbiota and human disease in metagenomics
+
 
 
 ### Computer-aided drug design
@@ -38,9 +38,7 @@ p {
 * **[BioDecoder](https://github.com/dfwlab/BioDecoder)** A miRNA Bio-interpretable Neural Network Model for Noninvasive Diagnosis of Breast Cancer
 
 
-### Databases
 
-* **[CPKB](http://121.5.165.69/)** Cyclic Peptide Knowledge Base
 
 
 
