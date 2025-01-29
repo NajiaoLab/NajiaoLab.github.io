@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ed02e141-be17-4a7a-987e-daf2a9ebe796)---
 layout: page
 title: Na Jiao
 position: Principle Investigator
