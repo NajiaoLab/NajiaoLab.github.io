@@ -19,7 +19,7 @@ p {
 
 
 
-Long-term recruitment of postdocs and research assistants, please send your resume (education background, work experience, research experience, publications, etc.) to [jiaonall@163.com](mailto:jiaonall@163.com).
+Long-term recruitment of postdocs and research assistants, please send your resume (education background, work experience, research experience, publications, etc.) to [najiao@fudan.edu.cn](mailto:najiao@fudan.edu.cn).
 
 Requirements:
 
