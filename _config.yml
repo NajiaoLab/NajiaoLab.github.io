@@ -27,6 +27,7 @@ navbar-links:
   PUBLICATIONS: "publications"
   CAREERS: "careers"
   CONTACT: "contact"
+  MEMORIES: "memories"
 
 ################
 # --- Logo --- #
@@ -132,7 +133,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 #navbar-col: "#19448e"
-navbar-col: "#d4afa8"
+navbar-col: "#1976D2"
 navbar-text-col: "#FFFFFF"
 #navbar-border-col: "#19448e"
 navbar-border-col: "#d4afa8"
