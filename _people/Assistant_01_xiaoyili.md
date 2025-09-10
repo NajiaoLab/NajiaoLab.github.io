@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Xiaoyi Li
+title: Zuo Liu
 position: Assistant
-image: /people/xiaoyili.png
+image: 
 degree: M.D.
-email: lixiaoyi@zju.edu.cn
-webside: https://jiaonall.github.io/
+email: 
+webside: 
 ---
 
 <style>
