@@ -17,9 +17,19 @@ p {
     </div>
 </div>
 
-## 2024 (Fudan University)
+## 2025
+1.	Yichen Li<sup>\#<sup>, Wenxia Wang<sup>\#<sup>, Ruixin Zhu<sup>\*</sup>, Xinyue Zhu, Mingwei Sun, Yanlan Huang, Wanning Chen, Sheng Gao, **Na Jiao**, Xutao Lin, Jia Ke, Tao Xu, Linlin Hou<sup>\*</sup>, Ping Lan<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. (2025). STAT1 mediates the pro-inflammatory role of GBP5 in colitis, Communications Biology.
 
-1. Wenxing Gao<sup>#</sup>, Weili Lin<sup>#</sup>, Qiang Li<sup>#</sup>, Wanning Chen, Wenjing Yin, Xinyue Zhu, Sheng Gao, Lei Liu, Wenjie Li, Dingfeng Wu, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>. Identification and validation of microbial biomarkers from cross-cohort datasets using xMarkerFinder, **Nature Protocols**, *2024*, https://doi.org/10.1038/s41596-024-00999-9.
+1.	Mengping Shen<sup>\#<sup>, Sheng Gao<sup>\#<sup>, Ruixin Zhu<sup>\*</sup>, Wei Wang, Wenxing Gao, Liwen Tao, Wanning Chen, Xinyue Zhu, Yuwei Yang, Tingjun Xu, Tingting Zhao, **Na Jiao**<sup>\*</sup>, Min Zhi<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. (2025) Multimodal Metagenomic Analysis Reveals Microbial InDels as Superior Biomarkers for Pediatric Crohn’s Disease, Journal of Crohn's and Colitis. 2025, 19(4):jjaf039
+
+1. Suqi Cao<sup>\#<sup>, Lei Liu<sup>\#<sup>, Liu Yang, Haomin Li, Ruixin Zhu, Gang Yu, **Na Jiao**<sup>\*</sup>, Dingfeng Wu<sup>\*</sup>. (2025). Assessing severe pneumonia risk in children via clinical prognostic model based on laboratory markers, International Immunopharmacology
+
+1. Yuwei Yang<sup>\#<sup>, Wenxing Gao<sup>\#<sup>, Ruixin Zhu<sup>\*</sup>, Liwen Tao, Wanning Chen, Xinyue Zhu, Mengping Shen, Tingjun Xu, Tingting Zhao, Xiaobai Zhang, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>. Systematic identificationof secondary bile acid production genes in global microbiome, mSystems, 2025: e00817-24.
+ 
+
+## 2024 
+
+1. Wenxing Gao<sup>\#</sup>, Weili Lin<sup>\#</sup>, Qiang Li<sup>#</sup>, Wanning Chen, Wenjing Yin, Xinyue Zhu, Sheng Gao, Lei Liu, Wenjie Li, Dingfeng Wu, Guoqing Zhang<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>. Identification and validation of microbial biomarkers from cross-cohort datasets using xMarkerFinder, **Nature Protocols**, *2024*, https://doi.org/10.1038/s41596-024-00999-9.
 1. **Na Jiao**<sup>\*</sup>, Lixin Zhu<sup>\*</sup>, Ruixin Zhu<sup>\*</sup>. The search for authentic microbiome–disease relationships. **Nature Medicine**. *2024*, https://doi.org/10.1038/s41591-024-02920-z
 1. Xinyue Zhu<sup>#</sup>, Pingping Xu<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Wenxing Gao, Wenjing Yin, Ping Lan, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Multi-kingdom microbial signatures in excess body weight colorectal cancer based on global metagenomic analysis, **Communications Biology**, *2024*, 7:24, 10.1038/s42003-023-05714-0
 1. Xiaoyi Li<sup>#</sup>, Dingfeng Wu<sup>#</sup>, Qiuyu Li, Jinglan Gu, Wenxing Gao, Xinyue Zhu, Wenjing Yin, Ruixin Zhu<sup>\*</sup>, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>, Host-microbiota interactions contributing to the heterogeneous tumor microenvironment in colorectal cancer, **Physiological Genomics**. *2024*,56 (2), 221-234
