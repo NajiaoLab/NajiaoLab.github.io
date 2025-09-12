@@ -18,13 +18,13 @@ p {
 </div>
 
 ## 2025
-1.	Yichen Li<sup>\#<sup>, Wenxia Wang<sup>\#<sup>, Ruixin Zhu<sup>\*</sup>, Xinyue Zhu, Mingwei Sun, Yanlan Huang, Wanning Chen, Sheng Gao, **Na Jiao**, Xutao Lin, Jia Ke, Tao Xu, Linlin Hou<sup>\*</sup>, Ping Lan<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. (2025). STAT1 mediates the pro-inflammatory role of GBP5 in colitis, Communications Biology.
+1.	Yichen Li<sup>#</sup>, Wenxia Wang<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Xinyue Zhu, Mingwei Sun, Yanlan Huang, Wanning Chen, Sheng Gao, **Na Jiao**, Xutao Lin, Jia Ke, Tao Xu, Linlin Hou<sup>\*</sup>, Ping Lan<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. (2025). STAT1 mediates the pro-inflammatory role of GBP5 in colitis, Communications Biology.
 
-1.	Mengping Shen<sup>\#<sup>, Sheng Gao<sup>\#<sup>, Ruixin Zhu<sup>\*</sup>, Wei Wang, Wenxing Gao, Liwen Tao, Wanning Chen, Xinyue Zhu, Yuwei Yang, Tingjun Xu, Tingting Zhao, **Na Jiao**<sup>\*</sup>, Min Zhi<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. (2025) Multimodal Metagenomic Analysis Reveals Microbial InDels as Superior Biomarkers for Pediatric Crohn’s Disease, Journal of Crohn's and Colitis. 2025, 19(4):jjaf039
+1.	Mengping Shen<sup>#</sup>, Sheng Gao<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Wei Wang, Wenxing Gao, Liwen Tao, Wanning Chen, Xinyue Zhu, Yuwei Yang, Tingjun Xu, Tingting Zhao, **Na Jiao**<sup>\*</sup>>, Min Zhi<sup>\*</sup>, Lixin Zhu<sup>\*</sup>. (2025) Multimodal Metagenomic Analysis Reveals Microbial InDels as Superior Biomarkers for Pediatric Crohn’s Disease, Journal of Crohn's and Colitis. 2025, 19(4):jjaf039
 
-1. Suqi Cao<sup>\#<sup>, Lei Liu<sup>\#<sup>, Liu Yang, Haomin Li, Ruixin Zhu, Gang Yu, **Na Jiao**<sup>\*</sup>, Dingfeng Wu<sup>\*</sup>. (2025). Assessing severe pneumonia risk in children via clinical prognostic model based on laboratory markers, International Immunopharmacology
+1. Suqi Cao<sup>#</sup>, Lei Liu<sup>#</sup>, Liu Yang, Haomin Li, Ruixin Zhu, Gang Yu, **Na Jiao**<sup>\*</sup>, Dingfeng Wu<sup>\*</sup>. (2025). Assessing severe pneumonia risk in children via clinical prognostic model based on laboratory markers, International Immunopharmacology
 
-1. Yuwei Yang<sup>\#<sup>, Wenxing Gao<sup>\#<sup>, Ruixin Zhu<sup>\*</sup>, Liwen Tao, Wanning Chen, Xinyue Zhu, Mengping Shen, Tingjun Xu, Tingting Zhao, Xiaobai Zhang, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>. Systematic identificationof secondary bile acid production genes in global microbiome, mSystems, 2025: e00817-24.
+1. Yuwei Yang<sup>#</sup>, Wenxing Gao<sup>#</sup>, Ruixin Zhu<sup>\*</sup>, Liwen Tao, Wanning Chen, Xinyue Zhu, Mengping Shen, Tingjun Xu, Tingting Zhao, Xiaobai Zhang, Lixin Zhu<sup>\*</sup>, **Na Jiao**<sup>\*</sup>. Systematic identificationof secondary bile acid production genes in global microbiome, mSystems, 2025: e00817-24.
  
 
 ## 2024 
