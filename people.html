@@ -97,7 +97,7 @@ language: utf8
 <div class="container-lg">
     <div class="row" style="margin-top: 3em;">
         <div class="col-lg-12">
-            <h3>Collaborating Students</h3>
+            <h3>PhD candidates</h3>
         </div>
     </div>
 </div>
@@ -133,4 +133,41 @@ language: utf8
     </div>
 </div>
 
+<div class="container-lg">
+    <div class="row" style="margin-top: 3em;">
+        <div class="col-lg-12">
+            <h3>MD candidates</h3>
+        </div>
+    </div>
+</div>
 
+<div class="container-lg">
+    <div class="row"  style="margin-top: 3rem">
+    {% for people in site.people %}
+        {% if people.position == "Collaborating Students" %}
+            <div class="col-lg-4">
+                <div class="text-center">
+                    <a class="text-primary" href="{{ people.url }}">
+                        <div class="text-center">
+                            <img alt="{{ people.title }}" class="rounded-circle shadow" src="/assets/img{{ people.image }}" width="200px" onmouseover="this.style.opacity=0.8;" onmouseout="this.style.opacity=1;">
+                        </div>
+                    </a>
+                </div>
+                <h2 class="text-center"><a href="{{ people.url }}" style="color: black;">{{ people.title }}</a> <small>{{ people.degree }}</small></h2>
+                <p class="text-center" style="margin-top: 1em;"><span><a href="mailto:{{ people.email }}"><i class="fas fa-envelope"></i> {{ people.email }}</a></span></p> 
+                <p class="text-center" style="margin-top: -1em;">
+                    {% if people.webside %}
+                    <span><a href="{{ people.webside }}"><i class="fas fa-globe"></i></a></span>
+                    {% endif %}
+                    {% if people.google_scholar %}
+                    <span><a href="https://scholar.google.com/citations?user={{ people.google_scholar }}"><i class="fas fa-graduation-cap"></i></a></span>
+                    {% endif %}
+                    {% if people.github %}
+                    <span><a href="{{ people.github }}"><i class="fab fa-github"></i></a></span>
+                    {% endif %}
+                </p> 
+            </div>
+        {% endif %}
+    {% endfor %}
+    </div>
+</div>
